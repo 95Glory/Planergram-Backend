@@ -24,6 +24,8 @@
 
 ### 🧑 이세운 : 데브옵스
 
+[Organizations Repository에 전체코드가 공유되어 있습니다.](https://github.com/Manidle)
+
 
 
 ## 02. 프로젝트 주제
